@@ -1,0 +1,116 @@
+{
+  "bundles": [
+    {
+      "id": "bundle-floral-butterfly",
+      "slug": "bundle-floral-butterfly",
+      "title": "Floral & Butterfly Tumbler Wrap Bundle, 8 Sublimation Designs (Digital Download)",
+      "price": 12.99,
+      "category": "bundles",
+      "bundle": true,
+      "includes": [
+        "3D Pink Floral Butterfly Tumbler Wrap, Daisy Pearl Sublimation PNG (Digital Download)",
+        "3D Floral Butterfly Tumbler Wrap, Pastel Lavender Flowers, Sublimation Design (Digital Download)",
+        "3D Crystal Butterfly Bow Tumbler Wrap, Pink Glam Sublimation PNG (Digital Download)",
+        "Dark Butterfly Maximalist Tumbler Wrap, Tropical Floral PNG (Digital Download)",
+        "Blush Pink Watercolor Butterfly Floral Tumbler Wrap (Digital Download)",
+        "Purple Lavender Butterfly Tumbler Wrap, 20oz Skinny Sublimation PNG (Digital Download)",
+        "Wildflower Meadow Tumbler Wrap, Watercolor Floral PNG (Digital Download)",
+        "Bloom Botanical Tumbler Wrap PNG, Floral Affirmation 20oz Skinny Sublimation Design"
+      ],
+      "worth": 16.92,
+      "count": 8,
+      "etsy_url": "",
+      "image": "",
+      "featured": true,
+      "order": -100
+    },
+    {
+      "id": "bundle-teacher-school",
+      "slug": "bundle-teacher-school",
+      "title": "Teacher & Back to School Tumbler Wrap Bundle, 8 Sublimation Designs (Digital Download)",
+      "price": 11.99,
+      "category": "bundles",
+      "bundle": true,
+      "includes": [
+        "3D Pink Bow Teacher Tumbler Wrap, \"Teacher Ever\" Sublimation PNG (Digital Download)",
+        "Floral Teacher Tumbler Wrap, Pink White Flowers, Blue Pearl Background (Digital Download)",
+        "Teacher Tumbler Wrap, Back to School PNG, Apple 20oz Sublimation Design",
+        "Kawaii Teacher Tumbler Wrap, Teaching Superpower Design (Digital Download)",
+        "Back to School Tumbler Wrap PNG, Stay Curious Classroom 20oz Sublimation Design",
+        "Teacher Tumbler Wrap PNG, Back to School Classroom 20oz Sublimation Design",
+        "Teacher Tumbler Wrap, Little Minds Big Hearts Sublimation PNG (Instant Download)",
+        "3D Puffy Tumbler Wrap, Kawaii School Supplies Design, Back to School PNG (Digital Download)"
+      ],
+      "worth": 17.92,
+      "count": 8,
+      "etsy_url": "",
+      "image": "",
+      "featured": true,
+      "order": -99
+    },
+    {
+      "id": "bundle-retro-shirts",
+      "slug": "bundle-retro-shirts",
+      "title": "Retro Shirt Design Bundle, 10 Bright PNG T-Shirt Designs (Digital Download)",
+      "price": 12.99,
+      "category": "bundles",
+      "bundle": true,
+      "includes": [
+        "Joy Wears Bright Colors Floral Shirt Design, Retro Rainbow Sublimation (Digital Download)",
+        "Nurse Shirt PNG, Steady Hands Sparkling Soul, Floral Stethoscope Design (Digital Download)",
+        "Pickleball PNG, Colorful Paddle Shirt Design, Retro Sports Sublimation Download, Pickleball Gift Digital File",
+        "Retro Fall Pumpkin Shirt Design, Jewel-Tone Autumn Leaves, Sparkle Effect (Digital Download)",
+        "Sunflower Butterfly Leopard Print T-Shirt Design (Digital File)",
+        "Tiny Wins Big Sparkle T-Shirt Design, Disco Star Bow, Motivational Sublimation (PNG)",
+        "Teaching in Full Color T-Shirt Design, Retro Teacher Shirt (PNG File)",
+        "Book Lover Ghost T-Shirt Design, Bright Unbothered PNG (Digital Download)",
+        "Sunflower Butterfly T-Shirt Design, Bloom Loud Shine Brighter (Digital Download)",
+        "Retro Teacher Shirt Design, Teach Love Inspire, Colorful Classroom Graphic (Digital Download)"
+      ],
+      "worth": 19.9,
+      "count": 10,
+      "etsy_url": "",
+      "image": "",
+      "featured": true,
+      "order": -98
+    },
+    {
+      "id": "bundle-bold-unisex",
+      "slug": "bundle-bold-unisex",
+      "title": "Bold & Unisex Tumbler Wrap Bundle, 7 Designs for Everyone (Digital Download)",
+      "price": 10.99,
+      "category": "bundles",
+      "bundle": true,
+      "includes": [
+        "Samurai Tumbler Wrap PNG, Dark Japanese Ink Art, 20oz Skinny Sublimation Design",
+        "Dad Mode Activated Tumbler Wrap, Industrial Metal Badge Design (Digital File)",
+        "Soccer Tumbler Wrap PNG, World Cup Sports Sublimation Design (Digital Download)",
+        "Boho Celestial Sun Moon Tumbler Wrap, 20oz Skinny Sublimation PNG (Digital Download)",
+        "Sunflower Cow Print Tumbler Wrap, Farmhouse Rustic Sublimation Design (Digital Download)",
+        "Autumn Botanical Tumbler Wrap PNG, Fall Floral Design (Digital Download)",
+        "3D Crystal Snowflake Tumbler Wrap, Silver Winter Design (Digital Download)"
+      ],
+      "worth": 15.93,
+      "count": 7,
+      "etsy_url": "",
+      "image": "",
+      "featured": true,
+      "order": -97
+    },
+    {
+      "id": "bundle-birthday-planners",
+      "slug": "bundle-birthday-planners",
+      "title": "Birthday Planner Family Bundle, 8 Printable Planners for Every Person (PDF, Letter & A4)",
+      "price": 17.99,
+      "category": "bundles",
+      "bundle": true,
+      "includes": [],
+      "worth": 0,
+      "count": 8,
+      "etsy_url": "",
+      "image": "",
+      "featured": true,
+      "order": -96
+    }
+  ]
+}

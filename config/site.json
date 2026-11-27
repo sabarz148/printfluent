@@ -1,0 +1,66 @@
+{
+  "name": "PrintFluent",
+  "tagline": "Smart digital solutions for work, learning & life.",
+  "url": "https://printfluent.shop",
+  "etsy_shop_url": "https://www.etsy.com/shop/PrintFluentShop",
+  "description": "Instant-download planners, tumbler wraps, t-shirt designs, birthday cards and classroom printables. Designed by PrintFluent, delivered through Etsy.",
+  "socials": {
+    "Facebook": "https://www.facebook.com/printfluent",
+    "Instagram": "https://www.instagram.com/printfluent.shop/",
+    "Pinterest": "https://www.pinterest.com/printfluent",
+    "TikTok": "https://www.tiktok.com/@printfluent"
+  },
+  "ga4_measurement_id": "",
+  "contact_email": "",
+  "newsletter_form_action": "",
+  "categories": [
+    {
+      "slug": "bundles",
+      "name": "Bundles & Packs",
+      "blurb": "Multi-design packs sold directly by PrintFluent. Better value than single designs.",
+      "color": "mustard"
+    },
+    {
+      "slug": "tumbler-wraps",
+      "name": "Tumbler Wraps",
+      "blurb": "20oz skinny straight tumbler sublimation designs, ready to press.",
+      "color": "blush"
+    },
+    {
+      "slug": "planners-trackers",
+      "name": "Planners & Trackers",
+      "blurb": "Printable and spreadsheet planners for birthdays, weddings, travel and goals.",
+      "color": "sage"
+    },
+    {
+      "slug": "t-shirt-designs",
+      "name": "T-Shirt PNG Designs",
+      "blurb": "Bold, original shirt graphics for sublimation and DTF.",
+      "color": "coral"
+    },
+    {
+      "slug": "teacher-resources",
+      "name": "Teacher Resources",
+      "blurb": "First-day signs and back-to-school keepsake pages.",
+      "color": "teal"
+    },
+    {
+      "slug": "birthday-cards",
+      "name": "Birthday Cards",
+      "blurb": "Elegant printable cards for milestone birthdays.",
+      "color": "purple"
+    },
+    {
+      "slug": "sympathy-cards",
+      "name": "Sympathy Cards",
+      "blurb": "Printable condolence and remembrance cards for loss of a parent, friend or pet.",
+      "color": "teal"
+    },
+    {
+      "slug": "kids-activities",
+      "name": "Kids Activities",
+      "blurb": "Printable workbooks and activities for kids.",
+      "color": "coral"
+    }
+  ]
+}
